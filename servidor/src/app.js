@@ -49,4 +49,4 @@ app.use('/api/movies', moviesRouterApi);
 app.use('/api/actors', actorsRouterApi);
 
 //Activando el servidor desde express
-app.listen('3001', () => console.log('Servidor corriendo en el puerto 3001'));
+app.listen('3001', () => console.log('Servidor corriendo en el http://localhost:3001'));
