@@ -27,7 +27,7 @@ Crear una Api de películas, utilizando una base de datos relacional, la misma s
 
 - Desde su gestor de base de datos, correr el script que se encuentra en:
 
-   `cicloVida-componentes-react/src/database/script/movies-db.sql`
+   `cicloVida-componentes-react/servidor/src/database/script/movies-db.sql`
 
 - Levantar el servidor para la base de datos desde su gestor de base de datos.
 
